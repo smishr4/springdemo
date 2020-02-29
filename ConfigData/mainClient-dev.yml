@@ -1,0 +1,6 @@
+---
+spring:
+  application:
+    name: mainClient
+  profile:
+    active: dev
